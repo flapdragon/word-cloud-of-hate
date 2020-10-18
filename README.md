@@ -1,2 +1,3 @@
 # word-cloud-of-hate
-made with love and create-react-app
+
+made with love, hate, create-react-app and react-wordcloud
